@@ -220,7 +220,7 @@ img.s {
 	background-position: center center;
 	background-size: contain;
 	background-attachment: local;
-	background-repeat: no-repeat; 
+	background-repeat: repeat; 
 }
 
 strong,b {
